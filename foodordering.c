@@ -6,7 +6,7 @@ int main()
 	scanf("%d",&choice);
 	switch(choice)
 	{
-		case1:
+		case 1:
 			printf("FOOD ITEM-PIZZA \n PRICE-RS 239");
 			break;
 		case 2:
